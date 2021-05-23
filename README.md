@@ -1,1 +1,13 @@
-Hi, I am Javier Flores, informally known as Javier Kasunic. I am a Rust and Java developer mainly targeted to creation of cross-platform user interfaces.
+Hey there 👋,
+
+I am a Rust and Java developer, aimed at cross-platform user interfaces.
+
+---------------
+**Public Projects**:
+- None yet! :smile:
+
+**Contact methods**:
+
+  Email: javierkasunic@outlook.com or kasunicjavier@gmail.com
+
+  Discord: @JavierKasunic#4283
